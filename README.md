@@ -32,8 +32,10 @@ Cleaned and categorized tourism types, categories, and series.
 Converted scaled values (_2014) into numeric Y2014 format.
 Merged cleaned_tourism with country_info, creating final_tourism (matched data) and nocountryfound (unmatched records).
 Assigned and formatted continent labels.
+
 **Impact:**
 Improved data accuracy and enabled better tourism trend analysis.
+
 **Tourism Trends (2014 Data Analysis)**
 Top Revenue Regions: Europe ($10.5M avg) and Asia ($7.3M avg) lead, while Africa ($1.6M avg) and Oceania ($846K avg) lag.
 Inbound vs. Outbound: Arrivals (14.41%) exceed departures (12.8%), showing net tourism inflows.
