@@ -22,6 +22,7 @@ High missing data in claim types (7,908) and dispositions (13,784).
 Checked baggage incidents dominate, indicating security and handling concerns.
 Further analysis by airport, state, and item category can improve loss prevention.
 
+
 **Tourism Data Analysis – Cleaning & Merging**
 **Objective:** 
 Processed and merged tourism data for trend analysis and insights.
